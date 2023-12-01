@@ -1,1 +1,12 @@
-
+Web3
+link: https://web3.ehc-fptu.club/
+Flag: EHC{T_love=Dat-3107}
+-đầu tiên mở đường link web với firefox
+-click vào "CLICK FIND HINT"
+-hiện ra một trang web có giao diện thông báo có lỗi kết nối
+-refresh trang thì thấy một dạng giống flag form
+-refresh trang lại vài lần thì flag được random
+-về lại trang web ban đầu
+-F12-mở network 
+-click vào "CLICK FIND HINT"
+-tại trang web thông báo lỗi kết nối nhìn vào lịch sử kết nối, các tập tin thu thập được tạo thành flag
