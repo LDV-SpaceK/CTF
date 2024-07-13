@@ -1,6 +1,6 @@
 ## Admin rights
 
-![ảnh](https://github.com/LDV-SpaceK/CTF/Junior.Crypt.2024-CTF/assets/151914246/858b082a-c895-49f4-a9ee-27bd11b83efb)
+![ảnh](https://github.com/LDV-SpaceK/Junior.Crypt.2024-CTF/assets/151914246/858b082a-c895-49f4-a9ee-27bd11b83efb)
 
 ## Windows forensics
 
