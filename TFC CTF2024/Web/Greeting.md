@@ -7,7 +7,9 @@ Mình có test thử SSTI trước. Mình thử các engine phổ biến như Ji
 Command: `python3 sstimap.py -u http://challs.tfcctf.com:31924/result?username=perryto --os-shell`
 
 ![image](https://hackmd.io/_uploads/r1Bw336Y0.png)
+
 Thành công. Thì ra đây là engine của Pug (lạ quá không biết nữa). Test payload `#{7 * 7}` thì được thật. 
+
 ![image](https://hackmd.io/_uploads/S1MLhhTKR.png)
 
 Chạy tool thì nó sẽ tự tạo shell cho mình rồi nên không cần gọi reverse shell từ web nữa
